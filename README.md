@@ -1,6 +1,17 @@
 # Centre-Allotment-System
-It is made using java programming language.
-The project is about registering centre by the admin and then alloting those centre to the candidates appearing for the exam on the basis of their preferences.The number of centres hold the condition for their capacity of spare seats for the candidates for their exam.The candidate have to first register and then login to see his/her alloted centre.The GUI is done using Java AWT and Java swing which helped alot in improvising our frontend and made it look attractive.Many concepts of oops were used such as Interfaces, Packages, Exception Handling, Inheritence, Encapsulation, Polymorphism, Java swing,Java awt, Java util.This project can be used as a Portal for registration and allotment of exam centres for Competitive Exams(JEE-Advanced/NEET/JEE Mains,etc.).
+-> To simplify examination hall allotment and seating arrangement for a local/state level competitive exam, we have built a portal which handles this process.
+
+-> Using this portal, Administrator can register the institutes that are willing to provide themselves as a venue to conduct this examination, by manually entering in the institute details such as Institute name, Location of institute and Capacity of institute (capacity refers to no. of candidates that can be accommodated).
+
+-> Once the institute registration process is completed, the Candidate registration process will commence.
+
+-> During registration of a candidate, they will be asked to enter their top 3 location preferences for the exam venue. For example, a student may select the location nearest to his/her house as the first preference.
+
+-> Student will be allocated a center as well as a unique roll number immediately after registration.
+
+-> Student can login anytime into their account and view these details.
+
+-> A list of students allocated to a given institute will be generated for each institute and Admin will have the option to view these lists.<br>
 <b>Preview</b>
 ![image](https://github.com/bhaavvya/Centre-Allotment-System/assets/110487270/2ccd6bfe-efc3-4735-b46c-81b15f42b44b)
 ![image](https://github.com/bhaavvya/Centre-Allotment-System/assets/110487270/73356697-1f30-4da8-b53e-b5f304ccebf2)
